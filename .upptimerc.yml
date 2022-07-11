@@ -17,3 +17,5 @@ status-website:
   navbar:
     - title: Status
       href: /
+
+user-agent: $UP_AGENT
