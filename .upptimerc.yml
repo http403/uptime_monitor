@@ -4,8 +4,8 @@ repo: uptime_monitor
 sites:
   - name: Wenku8
     url: https://www.wenku8.net
-  - name: Masiro Me
-    url: https://masiro.me/admin/auth/login
+  # - name: Masiro Me
+  #   url: https://masiro.me/admin/auth/login
   - name: Manhuagui
     url: https://www.manhuagui.com
   - name: DMHY
