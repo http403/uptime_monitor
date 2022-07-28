@@ -6,6 +6,10 @@ sites:
     url: https://www.wenku8.net
   - name: Masiro Me
     url: https://masiro.me/admin/auth/login
+  - name: Manhuagui
+    url: https://www.manhuagui.com
+  - name: DMHY
+    url: https://share.dmhy.org
 
 assignees:
   - http403
