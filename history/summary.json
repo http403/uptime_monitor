@@ -4,19 +4,19 @@
     "url": "https://www.wenku8.net",
     "icon": "https://favicons.githubusercontent.com/www.wenku8.net",
     "slug": "wenku8",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 766,
-    "timeDay": 743,
-    "timeWeek": 793,
-    "timeMonth": 766,
-    "timeYear": 766,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 761,
+    "timeDay": 716,
+    "timeWeek": 777,
+    "timeMonth": 761,
+    "timeYear": 761,
     "dailyMinutesDown": {
-      "2022-07-29": 0
+      "2022-07-29": 24
     }
   },
   {
