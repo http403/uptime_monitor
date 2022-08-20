@@ -43,18 +43,19 @@
     "icon": "https://favicons.githubusercontent.com/share.dmhy.org",
     "slug": "dmhy",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "96.81%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.84%",
+    "uptimeDay": "96.41%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 390,
     "timeDay": 421,
     "timeWeek": 414,
     "timeMonth": 390,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2022-08-19": 46
+      "2022-08-20": 2,
+      "2022-08-19": 50
     }
   }
 ]
