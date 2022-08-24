@@ -2,6 +2,8 @@ owner: http403
 repo: uptime_monitor
 
 sites:
+  - name: (no title)
+    url: https://hartmantam.xyz
   - name: Wenku8
     url: https://www.wenku8.net
   # - name: Masiro Me
