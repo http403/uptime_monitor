@@ -62,7 +62,7 @@
     "url": "https://share.dmhy.org",
     "icon": "https://icons.duckduckgo.com/ip3/share.dmhy.org.ico",
     "slug": "dmhy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
     "uptimeDay": "87.96%",
     "uptimeWeek": "97.67%",
@@ -70,7 +70,7 @@
     "uptimeYear": "99.58%",
     "time": 1825,
     "timeDay": 7901,
-    "timeWeek": 5644,
+    "timeWeek": 5921,
     "timeMonth": 3730,
     "timeYear": 1825,
     "dailyMinutesDown": {
