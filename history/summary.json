@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hartmantam.xyz.ico",
     "slug": "no-title",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 179,
     "timeDay": 173,
     "timeWeek": 127,
     "timeMonth": 324,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2023-01-19": 9,
       "2022-09-15": 31
     }
   },
