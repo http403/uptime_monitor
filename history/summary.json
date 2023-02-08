@@ -44,9 +44,9 @@
     "url": "https://www.manhuagui.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.manhuagui.com.ico",
     "slug": "manhuagui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 984,
     "timeMonth": 1050,
     "timeYear": 1055,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-08": 0
+    }
   },
   {
     "name": "DMHY",
