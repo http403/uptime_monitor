@@ -44,19 +44,19 @@
     "url": "https://www.manhuagui.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.manhuagui.com.ico",
     "slug": "manhuagui",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1055,
-    "timeDay": 946,
-    "timeWeek": 984,
-    "timeMonth": 1050,
-    "timeYear": 1055,
+    "time": 1080,
+    "timeDay": 3430,
+    "timeWeek": 1600,
+    "timeMonth": 1197,
+    "timeYear": 1080,
     "dailyMinutesDown": {
-      "2023-02-08": 0
+      "2023-02-08": 9
     }
   },
   {
