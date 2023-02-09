@@ -44,18 +44,20 @@
     "url": "https://www.manhuagui.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.manhuagui.com.ico",
     "slug": "manhuagui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1099,
-    "timeDay": 2552,
+    "timeDay": 1019,
     "timeWeek": 1783,
     "timeMonth": 1290,
     "timeYear": 1099,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-09": 0
+    }
   },
   {
     "name": "DMHY",
@@ -63,14 +65,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/share.dmhy.org.ico",
     "slug": "dmhy",
     "status": "up",
-    "uptime": "99.49%",
+    "uptime": "99.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.27%",
+    "uptimeWeek": "94.51%",
     "uptimeMonth": "98.22%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 1280,
     "timeDay": 311,
-    "timeWeek": 1169,
+    "timeWeek": 1027,
     "timeMonth": 938,
     "timeYear": 1280,
     "dailyMinutesDown": {
