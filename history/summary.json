@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 151,
-    "timeDay": 64,
-    "timeWeek": 115,
-    "timeMonth": 114,
-    "timeYear": 151,
+    "time": 152,
+    "timeDay": 345,
+    "timeWeek": 148,
+    "timeMonth": 121,
+    "timeYear": 152,
     "dailyMinutesDown": {
       "2022-09-15": 31
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.wenku8.net.ico",
     "slug": "wenku8",
     "status": "down",
-    "uptime": "61.86%",
+    "uptime": "61.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.46%",
-    "time": 630,
-    "timeDay": 149,
-    "timeWeek": 176,
-    "timeMonth": 165,
-    "timeYear": 618,
+    "uptimeYear": "57.18%",
+    "time": 629,
+    "timeDay": 232,
+    "timeWeek": 170,
+    "timeMonth": 168,
+    "timeYear": 617,
     "dailyMinutesDown": {
-      "2023-08-23": 1,
+      "2023-08-24": 2,
+      "2023-08-23": 1440,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
@@ -207,9 +208,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1074,
-    "timeDay": 1144,
-    "timeWeek": 1155,
-    "timeMonth": 1068,
+    "timeDay": 832,
+    "timeWeek": 1135,
+    "timeMonth": 1064,
     "timeYear": 1076,
     "dailyMinutesDown": {}
   },
@@ -224,10 +225,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 1026,
-    "timeDay": 532,
-    "timeWeek": 495,
-    "timeMonth": 416,
+    "time": 1025,
+    "timeDay": 297,
+    "timeWeek": 478,
+    "timeMonth": 413,
     "timeYear": 1073,
     "dailyMinutesDown": {
       "2023-02-05": 366,
@@ -236,8 +237,7 @@
       "2022-11-11": 146,
       "2022-11-10": 62,
       "2022-11-04": 110,
-      "2022-10-24": 20,
-      "2022-08-24": 57
+      "2022-10-24": 20
     }
   }
 ]
