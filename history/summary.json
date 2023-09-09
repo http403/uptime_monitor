@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.wenku8.net.ico",
     "slug": "wenku8",
     "status": "down",
-    "uptime": "59.38%",
+    "uptime": "59.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.80%",
+    "uptimeYear": "52.68%",
     "time": 615,
     "timeDay": 337,
     "timeWeek": 248,
     "timeMonth": 213,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2023-09-09": 1,
+      "2023-09-09": 626,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
       "2023-09-06": 1440,
@@ -217,9 +217,9 @@
     "url": "https://www.manhuagui.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.manhuagui.com.ico",
     "slug": "manhuagui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -228,7 +228,9 @@
     "timeWeek": 1011,
     "timeMonth": 1047,
     "timeYear": 1073,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-09": 0
+    }
   },
   {
     "name": "DMHY",
