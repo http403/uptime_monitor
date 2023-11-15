@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.36%",
+    "uptimeYear": "34.35%",
     "time": 549,
     "timeDay": 46,
     "timeWeek": 97,
     "timeMonth": 142,
     "timeYear": 506,
     "dailyMinutesDown": {
-      "2023-11-15": 448,
+      "2023-11-15": 460,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
@@ -282,11 +282,11 @@
     "url": "https://www.manhuagui.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.manhuagui.com.ico",
     "slug": "manhuagui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1066,
     "timeDay": 854,
@@ -294,7 +294,7 @@
     "timeMonth": 1043,
     "timeYear": 1067,
     "dailyMinutesDown": {
-      "2023-11-15": 6
+      "2023-11-15": 0
     }
   },
   {
