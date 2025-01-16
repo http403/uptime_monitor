@@ -34,7 +34,7 @@
     "timeMonth": 183,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2025-01-16": 1011,
+      "2025-01-16": 1027,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
@@ -406,14 +406,14 @@
     "url": "https://www.manhuagui.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.manhuagui.com.ico",
     "slug": "manhuagui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "82.07%",
+    "uptimeDay": "82.06%",
     "uptimeWeek": "91.31%",
-    "uptimeMonth": "95.41%",
+    "uptimeMonth": "95.40%",
     "uptimeYear": "99.54%",
-    "time": 1104,
-    "timeDay": 1093,
+    "time": 1105,
+    "timeDay": 1083,
     "timeWeek": 1111,
     "timeMonth": 1104,
     "timeYear": 1110,
@@ -451,7 +451,7 @@
       "2024-12-13": 33,
       "2024-12-12": 61,
       "2024-12-11": 58,
-      "2024-12-10": 63
+      "2024-12-10": 38
     }
   },
   {
