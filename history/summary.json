@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 281,
-    "timeWeek": 154,
+    "timeDay": 210,
+    "timeWeek": 168,
     "timeMonth": 179,
     "timeYear": 139,
     "dailyMinutesDown": {}
@@ -29,12 +29,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 175,
-    "timeDay": 351,
-    "timeWeek": 159,
-    "timeMonth": 190,
+    "timeDay": 208,
+    "timeWeek": 174,
+    "timeMonth": 188,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-01-20": 1353,
+      "2025-01-21": 2,
+      "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
@@ -397,8 +398,7 @@
       "2024-01-26": 1440,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
-      "2024-01-23": 1440,
-      "2024-01-22": 1440
+      "2024-01-23": 1440
     }
   },
   {
@@ -408,17 +408,17 @@
     "slug": "manhuagui",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "88.77%",
-    "uptimeWeek": "87.67%",
-    "uptimeMonth": "94.57%",
-    "uptimeYear": "99.52%",
+    "uptimeDay": "89.27%",
+    "uptimeWeek": "87.74%",
+    "uptimeMonth": "94.59%",
+    "uptimeYear": "99.51%",
     "time": 1105,
-    "timeDay": 1067,
-    "timeWeek": 1083,
-    "timeMonth": 1099,
+    "timeDay": 1087,
+    "timeWeek": 1086,
+    "timeMonth": 1098,
     "timeYear": 1106,
     "dailyMinutesDown": {
-      "2025-01-20": 161,
+      "2025-01-20": 154,
       "2025-01-19": 209,
       "2025-01-18": 105,
       "2025-01-17": 147,
@@ -448,7 +448,7 @@
       "2024-12-20": 16,
       "2024-12-19": 74,
       "2024-12-18": 29,
-      "2024-12-17": 54
+      "2024-12-17": 69
     }
   },
   {
@@ -463,9 +463,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
     "time": 1121,
-    "timeDay": 354,
-    "timeWeek": 568,
-    "timeMonth": 633,
+    "timeDay": 353,
+    "timeWeek": 432,
+    "timeMonth": 634,
     "timeYear": 1161,
     "dailyMinutesDown": {
       "2024-07-29": 123,
