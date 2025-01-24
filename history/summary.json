@@ -34,7 +34,7 @@
     "timeMonth": 192,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-01-24": 0,
+      "2025-01-24": 2,
       "2025-01-23": 1440,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
@@ -408,8 +408,8 @@
     "slug": "manhuagui",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "90.37%",
-    "uptimeWeek": "87.66%",
+    "uptimeDay": "90.26%",
+    "uptimeWeek": "87.64%",
     "uptimeMonth": "94.23%",
     "uptimeYear": "99.52%",
     "time": 1105,
@@ -418,7 +418,7 @@
     "timeMonth": 1101,
     "timeYear": 1106,
     "dailyMinutesDown": {
-      "2025-01-24": 0,
+      "2025-01-24": 2,
       "2025-01-23": 138,
       "2025-01-22": 205,
       "2025-01-21": 286,
