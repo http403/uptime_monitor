@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.wenku8.net.ico",
     "slug": "wenku8",
     "status": "down",
-    "uptime": "25.69%",
+    "uptime": "25.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -34,7 +34,7 @@
     "timeMonth": 147,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2025-03-18": 444,
+      "2025-03-18": 540,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
@@ -406,15 +406,15 @@
     "url": "https://www.manhuagui.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.manhuagui.com.ico",
     "slug": "manhuagui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "84.61%",
+    "uptimeDay": "84.60%",
     "uptimeWeek": "89.31%",
-    "uptimeMonth": "94.25%",
-    "uptimeYear": "99.52%",
+    "uptimeMonth": "94.31%",
+    "uptimeYear": "99.53%",
     "time": 1132,
-    "timeDay": 1109,
-    "timeWeek": 1127,
+    "timeDay": 1112,
+    "timeWeek": 1126,
     "timeMonth": 1121,
     "timeYear": 1132,
     "dailyMinutesDown": {
@@ -433,7 +433,7 @@
       "2025-03-06": 254,
       "2025-03-05": 132,
       "2025-03-04": 151,
-      "2025-03-03": 45
+      "2025-03-03": 19
     }
   },
   {
