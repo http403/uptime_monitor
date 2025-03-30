@@ -13,7 +13,7 @@
     "time": 139,
     "timeDay": 51,
     "timeWeek": 120,
-    "timeMonth": 148,
+    "timeMonth": 146,
     "timeYear": 148,
     "dailyMinutesDown": {}
   },
@@ -26,7 +26,7 @@
     "uptime": "25.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 177,
     "timeDay": 71,
@@ -34,7 +34,8 @@
     "timeMonth": 151,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2025-03-29": 1439,
+      "2025-03-30": 2,
+      "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -397,8 +398,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   },
   {
@@ -408,17 +408,18 @@
     "slug": "manhuagui",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "89.86%",
+    "uptimeDay": "89.67%",
     "uptimeWeek": "86.03%",
     "uptimeMonth": "93.98%",
     "uptimeYear": "99.50%",
     "time": 1135,
     "timeDay": 1111,
     "timeWeek": 1167,
-    "timeMonth": 1138,
+    "timeMonth": 1136,
     "timeYear": 1135,
     "dailyMinutesDown": {
-      "2025-03-29": 146,
+      "2025-03-30": 2,
+      "2025-03-29": 147,
       "2025-03-28": 127,
       "2025-03-27": 248,
       "2025-03-26": 186,
@@ -448,7 +449,7 @@
     "time": 1061,
     "timeDay": 498,
     "timeWeek": 380,
-    "timeMonth": 533,
+    "timeMonth": 536,
     "timeYear": 1202,
     "dailyMinutesDown": {
       "2025-03-22": 56,
