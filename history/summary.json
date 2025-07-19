@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 290,
-    "timeWeek": 191,
-    "timeMonth": 155,
+    "timeDay": 62,
+    "timeWeek": 161,
+    "timeMonth": 154,
     "timeYear": 158,
     "dailyMinutesDown": {}
   },
@@ -29,12 +29,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 233,
-    "timeDay": 132,
-    "timeWeek": 178,
-    "timeMonth": 671,
-    "timeYear": 257,
+    "timeDay": 89,
+    "timeWeek": 154,
+    "timeMonth": 660,
+    "timeYear": 256,
     "dailyMinutesDown": {
-      "2025-07-18": 1379,
+      "2025-07-19": 2,
+      "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
       "2025-07-15": 1440,
@@ -397,8 +398,7 @@
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
-      "2024-07-20": 1440,
-      "2024-07-19": 1440
+      "2024-07-20": 1440
     }
   },
   {
@@ -408,17 +408,17 @@
     "slug": "manhuagui",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "91.41%",
-    "uptimeWeek": "78.16%",
-    "uptimeMonth": "92.30%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "91.84%",
+    "uptimeWeek": "78.38%",
+    "uptimeMonth": "92.23%",
+    "uptimeYear": "99.35%",
     "time": 1136,
-    "timeDay": 1120,
-    "timeWeek": 1125,
-    "timeMonth": 1132,
+    "timeDay": 1111,
+    "timeWeek": 1122,
+    "timeMonth": 1131,
     "timeYear": 1136,
     "dailyMinutesDown": {
-      "2025-07-18": 124,
+      "2025-07-18": 118,
       "2025-07-17": 185,
       "2025-07-16": 110,
       "2025-07-15": 216,
@@ -427,7 +427,7 @@
       "2025-07-12": 485,
       "2025-07-11": 417,
       "2025-07-10": 457,
-      "2025-07-09": 314
+      "2025-07-09": 348
     }
   },
   {
@@ -442,10 +442,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 1141,
-    "timeDay": 479,
-    "timeWeek": 461,
-    "timeMonth": 799,
-    "timeYear": 1137,
+    "timeDay": 602,
+    "timeWeek": 496,
+    "timeMonth": 811,
+    "timeYear": 1138,
     "dailyMinutesDown": {
       "2025-05-21": 25,
       "2025-04-18": 49,
