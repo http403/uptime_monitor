@@ -4,18 +4,20 @@
     "url": "https://hartmantam.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/hartmantam.xyz.ico",
     "slug": "no-title",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 154,
+    "time": 155,
     "timeDay": 91,
     "timeWeek": 209,
     "timeMonth": 165,
     "timeYear": 161,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-22": 0
+    }
   },
   {
     "name": "Wenku8",
@@ -23,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.wenku8.net.ico",
     "slug": "wenku8",
     "status": "down",
-    "uptime": "21.56%",
+    "uptime": "21.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +36,7 @@
     "timeMonth": 534,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2025-09-22": 2,
+      "2025-09-22": 459,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
