@@ -4,19 +4,19 @@
     "url": "https://hartmantam.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/hartmantam.xyz.ico",
     "slug": "no-title",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 91,
-    "timeWeek": 209,
-    "timeMonth": 165,
-    "timeYear": 161,
+    "timeDay": 171,
+    "timeWeek": 215,
+    "timeMonth": 167,
+    "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-09-22": 0
+      "2025-09-22": 7
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 534,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2025-09-22": 459,
+      "2025-09-22": 466,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
