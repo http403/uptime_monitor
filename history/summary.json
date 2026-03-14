@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 109,
-    "timeWeek": 138,
-    "timeMonth": 161,
+    "timeDay": 139,
+    "timeWeek": 125,
+    "timeMonth": 163,
     "timeYear": 161,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.wenku8.net.ico",
     "slug": "wenku8",
     "status": "down",
-    "uptime": "18.79%",
+    "uptime": "18.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 275,
-    "timeDay": 191,
-    "timeWeek": 229,
-    "timeMonth": 227,
-    "timeYear": 312,
+    "timeDay": 268,
+    "timeWeek": 223,
+    "timeMonth": 230,
+    "timeYear": 313,
     "dailyMinutesDown": {
-      "2026-03-13": 4,
+      "2026-03-14": 5,
+      "2026-03-13": 1440,
       "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
@@ -397,8 +398,7 @@
       "2025-03-18": 1440,
       "2025-03-17": 1440,
       "2025-03-16": 1440,
-      "2025-03-15": 1440,
-      "2025-03-14": 1440
+      "2025-03-15": 1440
     }
   },
   {
@@ -412,11 +412,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
-    "time": 1137,
-    "timeDay": 1053,
-    "timeWeek": 1139,
-    "timeMonth": 1149,
-    "timeYear": 1138,
+    "time": 1138,
+    "timeDay": 1104,
+    "timeWeek": 1105,
+    "timeMonth": 1152,
+    "timeYear": 1137,
     "dailyMinutesDown": {
       "2025-08-08": 83,
       "2025-08-07": 3,
@@ -448,11 +448,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 722,
-    "timeDay": 2258,
-    "timeWeek": 618,
-    "timeMonth": 419,
-    "timeYear": 661,
+    "time": 721,
+    "timeDay": 257,
+    "timeWeek": 610,
+    "timeMonth": 412,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2026-01-04": 27,
       "2025-12-20": 31,
@@ -462,8 +462,7 @@
       "2025-07-20": 23,
       "2025-05-21": 25,
       "2025-04-18": 49,
-      "2025-03-22": 56,
-      "2025-03-14": 105
+      "2025-03-22": 56
     }
   }
 ]
