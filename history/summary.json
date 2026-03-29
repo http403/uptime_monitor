@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 109,
-    "timeWeek": 173,
-    "timeMonth": 159,
+    "timeDay": 211,
+    "timeWeek": 189,
+    "timeMonth": 161,
     "timeYear": 161,
     "dailyMinutesDown": {}
   },
@@ -26,15 +26,16 @@
     "uptime": "18.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.96%",
+    "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
-    "time": 277,
-    "timeDay": 202,
-    "timeWeek": 265,
-    "timeMonth": 232,
+    "time": 278,
+    "timeDay": 249,
+    "timeWeek": 264,
+    "timeMonth": 233,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2026-03-28": 1255,
+      "2026-03-29": 6,
+      "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
@@ -397,8 +398,7 @@
       "2025-04-02": 1440,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
-      "2025-03-30": 1440,
-      "2025-03-29": 1440
+      "2025-03-30": 1440
     }
   },
   {
@@ -408,17 +408,16 @@
     "slug": "manhuagui",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 1137,
-    "timeDay": 1082,
-    "timeWeek": 1187,
-    "timeMonth": 1216,
+    "timeDay": 1174,
+    "timeWeek": 1195,
+    "timeMonth": 1215,
     "timeYear": 1136,
     "dailyMinutesDown": {
-      "2026-03-28": 13,
       "2025-08-08": 83,
       "2025-08-07": 3,
       "2025-08-03": 44,
@@ -435,7 +434,7 @@
       "2025-07-23": 207,
       "2025-07-22": 126,
       "2025-07-21": 175,
-      "2025-07-20": 56
+      "2025-07-20": 76
     }
   },
   {
@@ -449,10 +448,10 @@
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.93%",
-    "time": 709,
-    "timeDay": 446,
-    "timeWeek": 393,
-    "timeMonth": 412,
+    "time": 708,
+    "timeDay": 294,
+    "timeWeek": 386,
+    "timeMonth": 409,
     "timeYear": 657,
     "dailyMinutesDown": {
       "2026-03-25": 33,
